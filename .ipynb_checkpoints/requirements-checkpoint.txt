@@ -1,0 +1,16 @@
+deeplake==3.6.5
+openai==0.27.8
+elevenlabs==0.2.18
+beautifulsoup4==4.11.2
+audio-recorder-streamlit==0.0.8
+streamlit-chat==0.0.2.2
+langchain==0.1.11
+boto3>=1.28.27
+anthropic
+streamlit
+pgvector
+psycopg2-binary
+tiktoken
+PyPDF2
+pypdf
+python-dotenv==1.0.0
